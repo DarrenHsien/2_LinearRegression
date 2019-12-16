@@ -39,3 +39,5 @@ Evaluate Function : R-Square OR MSE
     
 
 評估標準 : MSE , R-square
+
+驗證模型好壞 : 學習曲線與驗證曲線的比較
