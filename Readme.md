@@ -4,6 +4,9 @@ X = 建物移轉總面積平方公尺 , or plus 屋齡
 
 y = 總價元
 
+CostFunction : MSE
+Evaluate Function : R-Square
+
 方法 :
 
   (單特徵)
@@ -12,7 +15,7 @@ y = 總價元
     
     -Scikit-Learn SGDRegressor(梯度下降)
     
-    -Scikit-Learn LinearRegression(正規方程)
+    -Scikit-Learn LinearRegression(正規方程_公式解)
   
   
   多項式(Polynomial) 非線性迴歸(from sklearn.preprocessing import PolynomialFeatures)
