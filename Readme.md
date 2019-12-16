@@ -4,7 +4,7 @@ X = 建物移轉總面積平方公尺 , or plus 屋齡
 
 y = 總價元
 
-CostFunction : MSE
+CostFunction : MSE/2
 
 Evaluate Function : R-Square OR MSE
 
